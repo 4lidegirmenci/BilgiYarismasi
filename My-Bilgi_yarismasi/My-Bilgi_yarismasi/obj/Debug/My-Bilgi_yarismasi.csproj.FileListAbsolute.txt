@@ -1,0 +1,22 @@
+C:\Users\monster\Desktop\C# Projeler\My-Bilgi_yarismasi\My-Bilgi_yarismasi\bin\Debug\My-Bilgi_yarismasi.exe.config
+C:\Users\monster\Desktop\C# Projeler\My-Bilgi_yarismasi\My-Bilgi_yarismasi\bin\Debug\My-Bilgi_yarismasi.exe
+C:\Users\monster\Desktop\C# Projeler\My-Bilgi_yarismasi\My-Bilgi_yarismasi\bin\Debug\My-Bilgi_yarismasi.pdb
+C:\Users\monster\Desktop\C# Projeler\My-Bilgi_yarismasi\My-Bilgi_yarismasi\obj\Debug\My-Bilgi_yarismasi.csproj.AssemblyReference.cache
+C:\Users\monster\Desktop\C# Projeler\My-Bilgi_yarismasi\My-Bilgi_yarismasi\obj\Debug\My-Bilgi_yarismasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\monster\Desktop\C# Projeler\My-Bilgi_yarismasi\My-Bilgi_yarismasi\obj\Debug\My_Bilgi_yarismasi.Form1.resources
+C:\Users\monster\Desktop\C# Projeler\My-Bilgi_yarismasi\My-Bilgi_yarismasi\obj\Debug\My_Bilgi_yarismasi.Properties.Resources.resources
+C:\Users\monster\Desktop\C# Projeler\My-Bilgi_yarismasi\My-Bilgi_yarismasi\obj\Debug\My-Bilgi_yarismasi.csproj.GenerateResource.cache
+C:\Users\monster\Desktop\C# Projeler\My-Bilgi_yarismasi\My-Bilgi_yarismasi\obj\Debug\My-Bilgi_yarismasi.csproj.CoreCompileInputs.cache
+C:\Users\monster\Desktop\C# Projeler\My-Bilgi_yarismasi\My-Bilgi_yarismasi\obj\Debug\My-Bilgi_yarismasi.exe
+C:\Users\monster\Desktop\C# Projeler\My-Bilgi_yarismasi\My-Bilgi_yarismasi\obj\Debug\My-Bilgi_yarismasi.pdb
+C:\Users\monster\Desktop\My-Bilgi_yarismasi\My-Bilgi_yarismasi\bin\Debug\My-Bilgi_yarismasi.exe.config
+C:\Users\monster\Desktop\My-Bilgi_yarismasi\My-Bilgi_yarismasi\bin\Debug\My-Bilgi_yarismasi.exe
+C:\Users\monster\Desktop\My-Bilgi_yarismasi\My-Bilgi_yarismasi\bin\Debug\My-Bilgi_yarismasi.pdb
+C:\Users\monster\Desktop\My-Bilgi_yarismasi\My-Bilgi_yarismasi\obj\Debug\My-Bilgi_yarismasi.csproj.AssemblyReference.cache
+C:\Users\monster\Desktop\My-Bilgi_yarismasi\My-Bilgi_yarismasi\obj\Debug\My-Bilgi_yarismasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\monster\Desktop\My-Bilgi_yarismasi\My-Bilgi_yarismasi\obj\Debug\My_Bilgi_yarismasi.Form1.resources
+C:\Users\monster\Desktop\My-Bilgi_yarismasi\My-Bilgi_yarismasi\obj\Debug\My_Bilgi_yarismasi.Properties.Resources.resources
+C:\Users\monster\Desktop\My-Bilgi_yarismasi\My-Bilgi_yarismasi\obj\Debug\My-Bilgi_yarismasi.csproj.GenerateResource.cache
+C:\Users\monster\Desktop\My-Bilgi_yarismasi\My-Bilgi_yarismasi\obj\Debug\My-Bilgi_yarismasi.csproj.CoreCompileInputs.cache
+C:\Users\monster\Desktop\My-Bilgi_yarismasi\My-Bilgi_yarismasi\obj\Debug\My-Bilgi_yarismasi.exe
+C:\Users\monster\Desktop\My-Bilgi_yarismasi\My-Bilgi_yarismasi\obj\Debug\My-Bilgi_yarismasi.pdb
